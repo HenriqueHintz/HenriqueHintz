@@ -88,23 +88,23 @@ const henrique = {
 
 <div align="center">
 
-<a href="https://github.com/HenriqueHintz/super-assados01">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=HenriqueHintz&repo=super-assados01&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
+<a href="https://github.com/HenriqueHintz/super-assados02">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin?username=HenriqueHintz&repo=super-assados02&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
 </a>
 <a href="https://github.com/HenriqueHintz/super-pao">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=HenriqueHintz&repo=super-pao&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin?username=HenriqueHintz&repo=super-pao&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
 </a>
 <a href="https://github.com/HenriqueHintz/ten-pilates-center">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=HenriqueHintz&repo=ten-pilates-center&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin?username=HenriqueHintz&repo=ten-pilates-center&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
 </a>
 <a href="https://github.com/HenriqueHintz/bodyhallv3">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=HenriqueHintz&repo=bodyhallv3&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin?username=HenriqueHintz&repo=bodyhallv3&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
 </a>
 <a href="https://github.com/HenriqueHintz/churrascaria-gaucha">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=HenriqueHintz&repo=churrascaria-gaucha&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin?username=HenriqueHintz&repo=churrascaria-gaucha&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
 </a>
 <a href="https://github.com/HenriqueHintz/el-chicano">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=HenriqueHintz&repo=el-chicano&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin?username=HenriqueHintz&repo=el-chicano&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
 </a>
 
 </div>
@@ -119,7 +119,7 @@ const henrique = {
 
 | Projeto | Segmento | Descrição Profissional | Stack | Deploy |
 |---------|----------|------------------------|-------|--------|
-| **[Super Assados](https://github.com/HenriqueHintz/super-assados01)** | 🍖 Rotisseria | Landing page premium com sistema de carrinho, menu categorizado (Destaques, Marmitas, Buffet), seção VSL para conversão e design "Noir" sofisticado. | `TypeScript` `React` `Vite` | [Live](https://super-assados01.vercel.app) |
+| **[Super Assados](https://github.com/HenriqueHintz/super-assados02)** | 🍖 Rotisseria | Landing page premium com sistema de carrinho, menu categorizado (Destaques, Marmitas, Buffet), seção VSL para conversão e design "Noir" sofisticado. | `TypeScript` `React` `Vite` | [Live](https://super-assados02.vercel.app) |
 | **[Super Pão](https://github.com/HenriqueHintz/super-pao)** | 🥖 Padaria Artesanal | Plataforma web com i18n multilínguas, Dark Mode dinâmico, otimização WebP/Lazy Loading, acessibilidade WCAG e SEO com OpenGraph. | `TypeScript` `Next.js` `Tailwind` | [Live](https://super-pao.vercel.app) |
 | **[Ten Pilates Center](https://github.com/HenriqueHintz/ten-pilates-center)** | 🧘 Estúdio de Pilates | Landing page cinematográfica com vídeos hero imersivos, animações scroll-aware via Framer Motion, CTA direto para WhatsApp e design Navy/Orange. | `TypeScript` `React 19` `Tailwind v4` | [Live](https://ten-pilates-center.vercel.app) |
 | **[Body Hall v3](https://github.com/HenriqueHintz/bodyhallv3)** | 💪 Academia Premium | Interface imersiva com seções de modalidades, planos e depoimentos. Animações cinematográficas no scroll, CTAs flutuantes para captação de leads. | `TypeScript` `React 19` `Vite` `Framer` | [Live](https://bodyhallv3.vercel.app) |
