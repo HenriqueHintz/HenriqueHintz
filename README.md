@@ -84,32 +84,7 @@ const henrique = {
 
 ---
 
-## 🚀 Projetos em Destaque
 
-<div align="center">
-
-<a href="https://github.com/HenriqueHintz/super-assados02">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin?username=HenriqueHintz&repo=super-assados02&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
-</a>
-<a href="https://github.com/HenriqueHintz/super-pao">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin?username=HenriqueHintz&repo=super-pao&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
-</a>
-<a href="https://github.com/HenriqueHintz/ten-pilates-center">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin?username=HenriqueHintz&repo=ten-pilates-center&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
-</a>
-<a href="https://github.com/HenriqueHintz/bodyhallv3">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin?username=HenriqueHintz&repo=bodyhallv3&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
-</a>
-<a href="https://github.com/HenriqueHintz/churrascaria-gaucha">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin?username=HenriqueHintz&repo=churrascaria-gaucha&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
-</a>
-<a href="https://github.com/HenriqueHintz/el-chicano">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin?username=HenriqueHintz&repo=el-chicano&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
-</a>
-
-</div>
-
----
 
 ## 💼 Projetos com Foco em Negócios Reais
 
