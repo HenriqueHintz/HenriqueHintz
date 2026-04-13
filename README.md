@@ -143,9 +143,9 @@ const henrique = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HenriqueHintz/HenriqueHintz/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HenriqueHintz/HenriqueHintz/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/HenriqueHintz/HenriqueHintz/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HenriqueHintz/HenriqueHintz/output/github-snake-dark.svg?v=1" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HenriqueHintz/HenriqueHintz/output/github-snake.svg?v=1" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/HenriqueHintz/HenriqueHintz/output/github-snake.svg?v=1" />
   </picture>
 </div>
 
