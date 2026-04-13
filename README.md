@@ -88,7 +88,7 @@ const henrique = {
 
 <div align="center">
 
-<a href="https://github.com/HenriqueHintz/super-assados01">
+<a href="https://github.com/HenriqueHintz/super-assados02">
   <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=HenriqueHintz&repo=super-assados01&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
 </a>
 <a href="https://github.com/HenriqueHintz/super-pao">
