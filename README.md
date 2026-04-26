@@ -7,7 +7,7 @@
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%92%BC+Desenvolvedor+com+foco+em+neg%C3%B3cios+reais;%F0%9F%8F%97%EF%B8%8F+%2B6+projetos+comerciais+entregues+e+em+produ%C3%A7%C3%A3o;%F0%9F%9A%80+TypeScript+%7C+React+%7C+Next.js+%7C+Vite" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=%F0%9F%92%BC+Desenvolvedor+Full+Stack+focado+em+solu%C3%A7%C3%B5es+digitais+para+neg%C3%B3cios+reais;%F0%9F%8F%97%EF%B8%8F+%2B6+projetos+comerciais+entregues+e+em+produ%C3%A7%C3%A3o;%F0%9F%9A%80+TypeScript+%7C+React+%7C+Next.js+%7C+Vite" alt="Typing SVG" />
 </a>
 
 <!-- VISITOR COUNTER -->
