@@ -221,20 +221,41 @@ flowchart TD
 
 ---
 
-## 💼 Projetos em Produção & Portfólio
-
-Soluções desenvolvidas com foco em negócios reais, conversão e experiência de usuário:
+## 🚀 Projeto em Produção Real (Case de Sucesso)
 
 <div align="center">
 
-| Projeto | Segmento | Destaque Técnico | Stack | Deploy |
-|:---|:---|:---|:---|:---:|
-| **[Super Assados](https://github.com/HenriqueHintz/super-assados02)** | 🍖 Rotisseria & Gastronomia | Sistema de carrinho, cardápio segmentado, seção VSL para conversão e UI Noir. | `TypeScript` `React` `Vite` | [Acessar](https://super-assados02.vercel.app) |
-| **[Super Pão](https://github.com/HenriqueHintz/super-pao)** | 🥖 Padaria Artesanal | Suporte a i18n multilíngue, Dark Mode dinâmico, WebP/Lazy loading e WCAG. | `TypeScript` `Next.js` `Tailwind` | [Acessar](https://super-pao.vercel.app) |
-| **[Ten Pilates Center](https://github.com/HenriqueHintz/ten-pilates-center)** | 🧘 Saúde & Bem-estar | Interface cinematográfica com micro-interações, integração com WhatsApp e alta conversão. | `TypeScript` `React 19` `Tailwind` | [Acessar](https://ten-pilates-center.vercel.app) |
-| **[Body Hall v3](https://github.com/HenriqueHintz/bodyhallv3)** | 💪 Fitness Premium | Animações scroll-aware, captação de leads com CTAs flutuantes e layout responsivo. | `TypeScript` `React 19` `Vite` | [Acessar](https://bodyhallv3.vercel.app) |
-| **[Churrascaria Gauchá](https://github.com/HenriqueHintz/churrascaria-gaucha)** | 🥩 Restaurante & Eventos | Módulo de reservas, Dark/Light mode com Shadcn/UI e otimização SEO. | `TypeScript` `Next.js` `Shadcn` | [Acessar](https://churrascaria-gaucha.vercel.app) |
-| **[El Chicano Pocket](https://github.com/HenriqueHintz/el-chicano)** | 🌮 Gastronomia Mexicana | Cardápio digital interativo, suporte multi-filiais (Florianópolis e Laguna). | `JavaScript` `Next.js` `Tailwind` | [Acessar](https://el-chicano-two.vercel.app) |
+### 🌮 [El Chicano Mexican Food](https://elchicano.com.br/)
+**Portal oficial e experiência digital em produção real para rede gastronômica (Florianópolis e Laguna/SC)**
+
+<p align="center">
+  <a href="https://elchicano.com.br/" target="_blank">
+    <img src="https://img.shields.io/badge/Status-Produção_Real-success?style=for-the-badge&logo=vercel&logoColor=white" alt="Produção Real"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/HenriqueHintz/El-Floripa-Chicano" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-El--Floripa--Chicano-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://elchicano.com.br/" target="_blank">
+    <img src="https://img.shields.io/badge/Acessar-elchicano.com.br-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Site"/>
+  </a>
+</p>
+
+</div>
+
+> **Case Real de Produção:** Reconstrução e modernização de alta fidelidade do portal oficial da marca **[El Chicano Mexican Food](https://elchicano.com.br/)**, combinando fidelidade visual e funcional, alta performance e foco em conversão para pedidos e franquias.
+
+- 🌮 **Cardápio Interativo Completo:** 12 categorias com 74 pratos reais cadastrados, busca em tempo real com debounce, modal detalhado com fotos em alta resolução e direcionamento para pedidos.
+- 📍 **Multi-Unidades:** Páginas dedicadas para as unidades de **Florianópolis** e **Laguna**, com horários de funcionamento, rotas automáticas no Google Maps e botão direto de WhatsApp.
+- 📈 **Módulo de Franquias & Expansão:** Apresentação visual da rede e formulário interativo de captação de novos franqueados.
+- ⚡ **Alta Performance & UI Cinematográfica:** Arquitetura moderna com React 19, TypeScript, Tailwind CSS v4, animações em Canvas HTML5 e deploy de alta disponibilidade.
+
+<div align="center">
+
+| Projeto | Repositório | Segmento | Tecnologias | Produção Oficial |
+|:---|:---:|:---:|:---|:---:|
+| **El Chicano Mexican Food** | [GitHub Repo](https://github.com/HenriqueHintz/El-Floripa-Chicano) | 🌮 Gastronomia & Franquias | `React 19` `TypeScript` `Vite` `Tailwind v4` `Cloudflare D1` | [🔗 elchicano.com.br](https://elchicano.com.br/) |
 
 </div>
 
