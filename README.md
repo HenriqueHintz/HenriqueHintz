@@ -7,7 +7,7 @@
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=%F0%9F%9A%80+Analista+de+Sistemas+%7C+Implanta%C3%A7%C3%A3o+de+Software+e+Onboarding;%F0%9F%A7%AA+Quality+Assurance+(QA)+%7C+Testes+Manuais+e+Funcionais;%E2%9A%99%EF%B8%8F+Automa%C3%A7%C3%A3o+em+Python+%7C+Integra%C3%A7%C3%A3o+com+APIs+REST;%F0%9F%92%BC+Aplica%C3%A7%C3%B5es+Modernas+%7C+TypeScript%2C+React+%26+Next.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=560&height=45&lines=Implanta%C3%A7%C3%A3o+de+Sistemas+B2B;Quality+Assurance+(QA)+%26+Testes;Automa%C3%A7%C3%A3o+em+Python+%26+APIs+REST;Customer+Onboarding+%26+Suporte+N2%2FN3;Desenvolvimento+de+Aplica%C3%A7%C3%B5es+Web" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -15,7 +15,7 @@
 <!-- BADGES DE STATUS & CONTATO RÁPIDO -->
 <p align="center">
   <a href="https://wa.me/5548991808700" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-(48)_99180--8700-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117" alt="WhatsApp"/>
+    <img src="https://img.shields.io/badge/WhatsApp-48_99180--8700-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117" alt="WhatsApp"/>
   </a>
   <a href="mailto:rico.pompeo@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-rico.pompeo@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/>
@@ -24,22 +24,22 @@
     <img src="https://img.shields.io/badge/LinkedIn-Henrique_Hintz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
   </a>
   <a href="https://henriquehintz.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-Live_Site-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="Portfólio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Live_Site-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="Portfolio"/>
   </a>
 </p>
 
 <!-- DOCUMENTAÇÃO & CARTAS DE RECOMENDAÇÃO -->
 <p align="center">
   <a href="./docs/Curriculo_Henrique_Hintz.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/📄_Currículo-Baixar_PDF-1F6FEB?style=flat-square" alt="Currículo PDF"/>
+    <img src="https://img.shields.io/badge/Curriculo-Baixar_PDF-1F6FEB?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Currículo PDF"/>
   </a>
   &nbsp;
   <a href="./docs/Carta_Recomendacao_EDM_Software.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/📜_Recomendação-EDM_Softwares-238636?style=flat-square" alt="Carta EDM Softwares"/>
+    <img src="https://img.shields.io/badge/Recomendacao-EDM_Softwares-238636?style=flat-square" alt="Carta EDM Softwares"/>
   </a>
   &nbsp;
   <a href="./docs/Carta_Recomendacao_Vai_de_Bolsa.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/📜_Recomendação-Vai_de_Bolsa-8957E5?style=flat-square" alt="Carta Vai de Bolsa"/>
+    <img src="https://img.shields.io/badge/Recomendacao-Vai_de_Bolsa-8957E5?style=flat-square" alt="Carta Vai de Bolsa"/>
   </a>
 </p>
 
@@ -230,7 +230,7 @@ flowchart TD
 
 <p align="center">
   <a href="https://elchicano.com.br/" target="_blank">
-    <img src="https://img.shields.io/badge/Status-Produção_Real-success?style=for-the-badge&logo=vercel&logoColor=white" alt="Produção Real"/>
+    <img src="https://img.shields.io/badge/Status-Producao_Real-success?style=for-the-badge&logo=vercel&logoColor=white" alt="Produção Real"/>
   </a>
   &nbsp;
   <a href="https://github.com/HenriqueHintz/El-Floripa-Chicano" target="_blank">
@@ -264,8 +264,8 @@ flowchart TD
 ## 📊 Estatísticas no GitHub
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=HenriqueHintz&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&ring_color=58A6FF&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueHintz&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8"/>
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HenriqueHintz&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&ring_color=58A6FF&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HenriqueHintz&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8"/>
 </div>
 
 <div align="center">
@@ -305,7 +305,7 @@ Estou aberto a oportunidades profissionais como **Analista de Sistemas**, **Anal
 </a>
 &nbsp;
 <a href="https://henriquehintz.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfólio-Acessar-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="Portfólio"/>
+  <img src="https://img.shields.io/badge/Portfolio-Acessar-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="Portfolio"/>
 </a>
 
 <br/><br/>
